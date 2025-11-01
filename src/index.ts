@@ -3,7 +3,7 @@
  * @author Emilia (NotDumbDev)
  * @license MIT
  * @copyright 2025 Emilia (NotDumbDev)
- * @note Please credit the original creator (Emilia / NotDumbDev) when redistributing or modifying the project.
+ * @note Please credit the original creator (Emilia / NotDumbDev) when redistributing or modifying the project!
  */
 
 // types \\
