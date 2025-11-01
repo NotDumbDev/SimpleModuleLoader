@@ -49,3 +49,12 @@ Just run
 npm install github:NotDumbDev/SimpleModuleLoader
 ```
 on your terminal!
+
+---
+
+## 🤝 Feedback & Contributing
+Contributing is always appreciated! feel free to contribute to this.
+
+Feedback is also appreciated! 
+
+If you find a bug / want a feature please DM me on discord or open an issue!
